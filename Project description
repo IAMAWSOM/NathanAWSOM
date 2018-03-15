@@ -1,0 +1,29 @@
+Scheduling Software
+
+Parents can select an available time slot for in-home lessons.
+
+Requirements:
+
+1. Database that contains teacher availability and location based on their scheduled lessons. Must update automatically as students are added/removed.
+
+2. The graphic interface for scheduling must be instinctively easy to use, understand, and pleasing to the eye.
+
+3. Parents could fill out the Free Trial Form  which includes the student’s instrument, address, and availability. Program will automatically generate 3  or so options that are possible to select. Upon selecting the best option, the teacher is immediately notified and their Google calendar (or AWSOM calendar, if necessary) is automatically updated. 
+
+4. Road traffic must be considered based on the time of day, which means Google Maps or a similar service will need to be licensed.
+
+5. Teacher maximum drive times must be a possible constraint. For example, the teacher could choose to drive no more than 20 minutes between lessons, or no more than 10 miles.
+
+6. Scheduling program will select teachers' location each day based on the demand and likelihood of that location leading to a full schedule on the selected day. For example, Bellevue is a very popular region, and so each teacher would likely end up with at least 1 or 2 days in Bellevue on their schedule.
+
+7.  Automated reminders to both teacher and family on the day of the first lesson, and each week thereafter. This would also include a two-way system that would allow either the teacher or the parent to cancel, request a make-up, or suggest a make-up date/time. Any alterations made by the teacher or parent would automatically update the schedule, and automatically change the reminder associated with that lesson.
+
+8. If the program determines that there is no availability, the software would offer potential availabilities that would include possible options. This would be in the form of a button that could be clicked/pressed, and it would automatically update their availability and their list possible options.
+
+9. MUST be available in both mobile and desktop formats.
+
+Additional features that would obliterate competition and leap frog AWSOM to the forefront of In-Home lessons:
+
+10. An automated algorithm, similar to buying an airline ticket or Uber’s Rush House mode, that could take our teacher rates and then analyze a teacher’s drive to the next lesson. If a possible teacher is only traveling a few feet to the next house over, their price would be significantly lower than the teacher who has to sit through 40 minutes of traffic. The more inconvenience experienced by a teacher, the higher the price. This would allow families who want an exact time in a teacher’s schedule to do so, and the budget-minded family to find screaming deals.
+
+11. A spider bot (Like at Google! I did my homework :D) that would crawl the web and find out what the market rates are for teachers in Seattle (and while we’re at it, the whole world!) and then add traveling expenses to those rates. 
